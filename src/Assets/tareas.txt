@@ -1,0 +1,2 @@
+tarjeta profile card 
+crear componente card time

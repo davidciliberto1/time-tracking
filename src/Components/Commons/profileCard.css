@@ -1,0 +1,70 @@
+.containerProfileCard {
+  background-color: #1d204b;
+  border-radius: 15px;
+}
+.profile {
+    display: grid;
+    background-color: #5746ea;
+    border-radius: 10px;
+    text-align: left;
+    color: white;
+    font-size: 18px;
+    padding-top: 15px;
+    padding-right: 50px;
+    padding-left: 15px;
+  }
+.profilePic {
+  width: 30px;
+  border-style: inherit;
+  border-radius: 50%;
+  border: 3px solid white;
+  float: left;
+}
+.titleName {
+    color: hsl(235, 45%, 61%);
+    font-size: 8px;
+    margin: 0;
+}
+.name {
+    color: hsl(236, 100%, 87%);
+    font-weight: 300;
+    margin-top: 0px;
+    margin-bottom: 0;
+}
+.lastName {
+    color: hsl(236, 100%, 87%);
+    margin-top: 0px;
+    font-weight: 300;
+}
+.profileInfo {
+}
+.recurrenceForAlertContainer {
+  padding: 15px;
+}
+.daily {
+  text-decoration: none;
+  color: hsl(235, 45%, 61%);
+  font-size: 10px;
+  font-weight: 300;
+}
+.weekly {
+  text-decoration: none;
+  color: hsl(235, 45%, 61%);
+  font-size: 10px;
+  font-weight: 300;
+}
+.monthly {
+  text-decoration: none;
+  color: hsl(235, 45%, 61%);
+  font-size: 10px;
+  font-weight: 300;
+}
+.daily:hover {
+    color: hsl(236, 100%, 87%);
+}
+.weekly:hover {
+    color: hsl(236, 100%, 87%);
+}
+.monthly:hover {
+    color: hsl(236, 100%, 87%);
+}

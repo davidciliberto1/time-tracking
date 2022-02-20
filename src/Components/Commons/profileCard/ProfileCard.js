@@ -1,6 +1,6 @@
 import React from 'react';
 import './profileCard.css';
-import profilePic from '../../Assets/images/image-jeremy.png';
+import profilePic from '../../../Assets/images/image-jeremy.png';
 
 const ProfileCard = () => {
     return (
@@ -14,11 +14,11 @@ const ProfileCard = () => {
                     </div>
                 </div>
                 <div className='recurrenceForAlertContainer'>
-                    <a className='daily' href="">Daily</a>
+                    <a className='daily' href="/">Daily</a>
                     <br />
-                    <a className='weekly' href="">Weekly</a>
+                    <a className='weekly' href="/">Weekly</a>
                     <br />
-                    <a className='monthly' href="">Monthly</a>
+                    <a className='monthly' href="/">Monthly</a>
                 </div>
             </div>
         </div>

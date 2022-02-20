@@ -1,14 +1,13 @@
 .cardContainer {
-    display: flexbox;
-    padding: 15px;
+    display: flex;
+    gap: 10px;
+    height: 50px;
 }
 .backgroundCard {
     background-color:   hsl(15, 100%, 70%);
     border-radius: 10px;
-    
 }
 .iconWork {
-    padding: 2px;
     width: 30px;
     float: right;
 }
@@ -22,7 +21,8 @@
     position: relative;
 }
 .headerCard {
-    display: flexbox;
+    display: flex
+;
     color: hsl(236, 100%, 87%);
     font-size: 10px;
 }

@@ -23,17 +23,13 @@
 .titleName {
     color: hsl(235, 45%, 61%);
     font-size: 8px;
-    margin: 0;
 }
 .name {
     color: hsl(236, 100%, 87%);
     font-weight: 300;
-    margin-top: 0px;
-    margin-bottom: 0;
 }
 .lastName {
     color: hsl(236, 100%, 87%);
-    margin-top: 0px;
     font-weight: 300;
 }
 .profileInfo {

@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React from 'react';
 import { dataTasks } from '../../../data';
 import Item from '../Item/Item';
 import './tabContent.css';

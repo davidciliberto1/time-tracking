@@ -20,7 +20,7 @@
   font-weight: normal;
   color: var(--Pale-Blue)
 }
-.userInfo h3{
+.userInfo h1{
   font-weight: lighter;
 }
 
@@ -32,7 +32,7 @@
   .userInfo h4{
       margin-top: 0;
   }
-  .userInfo h3{
+  .userInfo h1{
       font-size: 24px;
   }
   .infoContainer{
